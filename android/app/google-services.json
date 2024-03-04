@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940776874971",
+    "project_id": "testuploadimg-fa76f",
+    "storage_bucket": "testuploadimg-fa76f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940776874971:android:e8252ef4c35c37189c3dfe",
+        "android_client_info": {
+          "package_name": "com.camerapro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeNqejgM3pNXC6Rb0o3NjecAkk_-G6sXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
